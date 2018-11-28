@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NOGA_CLAN
 
 You can use the [editor on GitHub](https://github.com/nogaleaderant2/noga_clan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
