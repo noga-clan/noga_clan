@@ -1,6 +1,6 @@
 ## Welcome to NOGA_CLAN
 
-(http://surviv.io/)
+[Surviv.io](http://surviv.io/)
 
 
 
